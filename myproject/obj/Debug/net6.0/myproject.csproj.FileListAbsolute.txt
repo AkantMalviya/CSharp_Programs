@@ -1,0 +1,15 @@
+E:\1. My Comp. Science Field\C#\myproject\bin\Debug\net6.0\myproject.exe
+E:\1. My Comp. Science Field\C#\myproject\bin\Debug\net6.0\myproject.deps.json
+E:\1. My Comp. Science Field\C#\myproject\bin\Debug\net6.0\myproject.runtimeconfig.json
+E:\1. My Comp. Science Field\C#\myproject\bin\Debug\net6.0\myproject.dll
+E:\1. My Comp. Science Field\C#\myproject\bin\Debug\net6.0\myproject.pdb
+E:\1. My Comp. Science Field\C#\myproject\obj\Debug\net6.0\myproject.csproj.AssemblyReference.cache
+E:\1. My Comp. Science Field\C#\myproject\obj\Debug\net6.0\myproject.GeneratedMSBuildEditorConfig.editorconfig
+E:\1. My Comp. Science Field\C#\myproject\obj\Debug\net6.0\myproject.AssemblyInfoInputs.cache
+E:\1. My Comp. Science Field\C#\myproject\obj\Debug\net6.0\myproject.AssemblyInfo.cs
+E:\1. My Comp. Science Field\C#\myproject\obj\Debug\net6.0\myproject.csproj.CoreCompileInputs.cache
+E:\1. My Comp. Science Field\C#\myproject\obj\Debug\net6.0\myproject.dll
+E:\1. My Comp. Science Field\C#\myproject\obj\Debug\net6.0\refint\myproject.dll
+E:\1. My Comp. Science Field\C#\myproject\obj\Debug\net6.0\myproject.pdb
+E:\1. My Comp. Science Field\C#\myproject\obj\Debug\net6.0\myproject.genruntimeconfig.cache
+E:\1. My Comp. Science Field\C#\myproject\obj\Debug\net6.0\ref\myproject.dll
