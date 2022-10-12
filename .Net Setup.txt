@@ -1,0 +1,15 @@
+dotnet
+dotnet new console
+dotnet new console -0 app = -o (output)
+dotnet new console -n app = -n (Name)
+cd app
+code .
+dotnet run
+dotnet build
+dotnet debug
+
+run in terminal 
+code runner
+goto Jason setting
+ in "code-runner.executorMap"
+type "csharp": "cd $dir && dotnet run $fileName",
